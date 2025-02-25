@@ -116,20 +116,20 @@ trên Linux được tạo ra, thì ở năm 2025 đang có hơn 600 hệ điề
 
 1. Miễn phí
 
-   > Những hệ điều hành (bản phân phối) được xây dựng từ Linux đa phần đều là mã
-   > nguồn mở, cho phép người dùng tải về và trải nghiệm.
+- Những hệ điều hành (bản phân phối) được xây dựng từ Linux đa phần đều là mã
+  nguồn mở, cho phép người dùng tải về và trải nghiệm.
 
 2. Tính bảo mật
 
-   > - Khi sử dụng Windows, mặc định Microsoft sẽ cài đặt rất rất nhiều dịch vụ sâu
-   >   bên trong hệ điều hành mà có thể bạn không bao giờ biết. So với đó, bạn hoàn
-   >   toàn có thể biết được trong thiết bị của bạn đang có những dịch vụ gì, bạn có
-   >   thể chủ động tắt hay bật.
-   > - Một lý do khác đó chính là việc cài đặt những ứng dụng crack trên Windows quá
-   >   là dễ dàng dẫn tới việc chúng có thể có viruss. Trên Linux, việc cài đặt những ứng
-   >   dụng chủ yếu thông qua một công cụ có tên Package Manager (trình quản lý gói),
-   >   để những phần mềm được phép xuất hiện và cài đặt thì sẽ phải thông qua sự kiểm
-   >   duyệt bởi Package Manager, vậy nên tỉ lệ xuất hiện của ứng dụng có mã độc ít khi xảy ra.
+- Khi sử dụng Windows, mặc định Microsoft sẽ cài đặt rất rất nhiều dịch vụ sâu
+  bên trong hệ điều hành mà có thể bạn không bao giờ biết. So với đó, bạn hoàn
+  toàn có thể biết được trong thiết bị của bạn đang có những dịch vụ gì, bạn có
+  thể chủ động tắt hay bật.
+- Một lý do khác đó chính là việc cài đặt những ứng dụng crack trên Windows quá
+  là dễ dàng dẫn tới việc chúng có thể có viruss. Trên Linux, việc cài đặt những ứng
+  dụng chủ yếu thông qua một công cụ có tên Package Manager (trình quản lý gói),
+  để những phần mềm được phép xuất hiện và cài đặt thì sẽ phải thông qua sự kiểm
+  duyệt bởi Package Manager, vậy nên tỉ lệ xuất hiện của ứng dụng có mã độc ít khi xảy ra.
 
 > [!NOTE]
 > Thật ra một khi hacker đã muốn hack rồi thì nó sẽ tìm được cách thôi :v phần
@@ -137,12 +137,13 @@ trên Linux được tạo ra, thì ở năm 2025 đang có hơn 600 hệ điề
 > hoàn hảo.
 
 3. Có thể cài đặt được trên nhiều thiết bị
-   > - Linux tương tích tốt với nhiều phần cứng, máy tính của bạn dù chỉ có 400mb
-   >   RAM, 800mb ROM thì vẫn hoàn toàn có thể cài đặt và chạy được những hệ điều
-   >   hành của Linux.
-   > - Linux hiện diện ở nhiều thiết bị, trong điện thoại của bạn, trong cục
-   >   Router wifi nhà bạn cũng hoàn toàn có thể là đang chạy một phiên bản
-   >   tối giản của Linux,...
+
+- Linux tương tích tốt với nhiều phần cứng, máy tính của bạn dù chỉ có 400mb
+  RAM, 800mb ROM thì vẫn hoàn toàn có thể cài đặt và chạy được những hệ điều
+  hành của Linux.
+- Linux hiện diện ở nhiều thiết bị, trong điện thoại của bạn, trong cục
+  Router wifi nhà bạn cũng hoàn toàn có thể là đang chạy một phiên bản
+  tối giản của Linux,...
 
 > [!NOTE]
 > Fun fact: Đã có lập trình viên cài đặt được Linux lên 1 chiếc que thử thai
@@ -150,10 +151,11 @@ trên Linux được tạo ra, thì ở năm 2025 đang có hơn 600 hệ điề
 > tựa game huyền thoại thôi :v). Nói có sách, mách có chứng [link](https://www.youtube.com/watch?v=D5NTJSfUWDE)
 
 4. Tính tùy biến cao
-   > Vì là mã nguồn mở nên bạn hoàn toàn có thể thay đổi rất sâu trong hệ thống,
-   > như thay đổi xung nhịp, hiệu suất của máy tính, tùy chỉnh giao diện sâu tới mức
-   > chiếc máy tính đó của bạn trở thành bản độc nhất trên thế giới mà chỉ có bạn mới
-   > biết sử dụng ... như máy tính của tớ :v
+
+- Vì là mã nguồn mở nên bạn hoàn toàn có thể thay đổi rất sâu trong hệ thống,
+  như thay đổi xung nhịp, hiệu suất của máy tính, tùy chỉnh giao diện sâu tới mức
+  chiếc máy tính đó của bạn trở thành bản độc nhất trên thế giới mà chỉ có bạn mới
+  biết sử dụng ... như máy tính của tớ :v
 
 ## [Phiên bản mới nhất của Linux](https://www.kernel.org/doc/html/latest/) - 6.14
 
