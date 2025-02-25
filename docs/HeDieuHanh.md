@@ -112,6 +112,22 @@ trên Linux được tạo ra, thì ở năm 2025 đang có hơn 600 hệ điề
 > trình biên dịch để trở thành mã máy nhằm mục đích giao nhiệm vụ và điều hành cho máy tính
 > làm việc theo ý muốn của người tạo ra phần mềm.
 
+## Giải thích tóm gọn về cách hoạt động của một hệ điều hành
+
+![Linux](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F-Ib2XzejJoos%2FUicx_BpOvmI%2FAAAAAAAAAaQ%2FIOwrXR6M7lc%2Fs1600%2F8.png&f=1&nofb=1&ipt=7d25916c8700649f4024baac154cfeb9374472c1a7444acb83b574c77f3bc444&ipo=images)
+
+- Một hệ điều hành được chia ra làm 4 tầng cơ bản:
+
+  - Tầng 1 - User: là tầng người dùng trực tiếp tương tác, những tương tác của người dùng sẽ gửi
+    đi những Request (yêu cầu) tới tầng Shell.
+  - Tầng 2 - Shell: được hiểu đơn giản là lớp vỏ bọc bên ngoài của những phần
+    bên trong của hệ thống. Nhiệm vụ của shell đó là dịch những yêu cầu của người
+    dùng sang thành mã máy để chuyển xuống tầng Kernel. (Các loại shell: Windows
+    có Powershell, Linux và MacOS có mặc định là Bash shell)
+  - Tầng 3 - Kernel: có nhiệm vụ là nhận lệnh từ shell, xác định tài nguyên phần cứng cần thiết (ví dụ: CPU, bộ nhớ, ổ cứng), và thực hiện các thao tác tương ứng để đáp ứng yêu cầu của người dùng.
+  - Tầng 4 - Hardware: thực hiện những yêu cầu của tầng Kernel sau đó gửi lại
+    những phản hồi (Response) về Kernel -> Shell -> User.
+
 ## Tại sao mọi người tạo sử dụng Linux ?
 
 1. Miễn phí
